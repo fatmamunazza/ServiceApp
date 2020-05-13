@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="profile_section">#fff</color>
+    <color name="edit_color">#2196F3</color>
+    <color name="profile_background">#F3F4FB</color>
+    <color name="recharge_background">#ECEFF1</color>
+    <color name="profile_text">#272627</color>
+    <color name="profile_next_text">#757575</color>
+
+</resources>
