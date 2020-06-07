@@ -98,7 +98,7 @@ public class Recharge extends AppCompatActivity implements PaymentResultListener
             options.put("description", "Recharge your wallet");
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                 //add url here for icon
-                options.put("image", "https://techfatimawebd.000webhostapp.com/img/icon.png");
+                options.put("image", "http://serveondoor.com/servernew/uploads/sod.jpg");
             }
             options.put("currency", "INR");
 
