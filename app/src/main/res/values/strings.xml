@@ -17,13 +17,13 @@
 
 
     <!-- Wallet Section -->
-    <string name="wallet_title">SOD WALLET</string>
-    <string name="wallet_history">Wallet History</string>
+    <string name="wallet_title">\u0020 \u0020SOD WALLET</string>
+    <string name="wallet_history">My History</string>
     <string name="balance_title">Balance</string>
     <string name="recharge">Recharge</string>
 
     <!-- Recharge Section -->
-    <string name="recharge_title">AMOUNT</string>
+    <string name="recharge_title">Amount</string>
     <string name="recharge_confirm">CONTINUE</string>
 
     <!-- Recharge Section -->
